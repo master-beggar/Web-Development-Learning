@@ -1,2 +1,2 @@
-# Coursera: HTML, CSS and Javascript for Web Developers
-## Web Development Learning
+# Web Development Learning
+## Coursera: HTML, CSS and Javascript for Web Developers
